@@ -1,0 +1,10 @@
+c:\users\0826\documents\visual studio 2010\Projects\EntityGenerate\EntityGenerate\bin\Debug\EntityGenerate.exe
+c:\users\0826\documents\visual studio 2010\Projects\EntityGenerate\EntityGenerate\bin\Debug\EntityGenerate.pdb
+c:\users\0826\documents\visual studio 2010\Projects\EntityGenerate\EntityGenerate\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\0826\documents\visual studio 2010\Projects\EntityGenerate\EntityGenerate\obj\x86\Debug\EntityGenerate.exe
+c:\users\0826\documents\visual studio 2010\Projects\EntityGenerate\EntityGenerate\obj\x86\Debug\EntityGenerate.pdb
+C:\Users\0826\Desktop\EntityGenerate\EntityGenerate\obj\x86\Debug\EntityGenerate.exe
+C:\Users\0826\Desktop\EntityGenerate\EntityGenerate\obj\x86\Debug\EntityGenerate.pdb
+C:\Users\0826\Desktop\EntityGenerate\EntityGenerate\bin\Debug\EntityGenerate.exe
+C:\Users\0826\Desktop\EntityGenerate\EntityGenerate\bin\Debug\EntityGenerate.pdb
+C:\Users\0826\Desktop\EntityGenerate\EntityGenerate\obj\x86\Debug\EntityGenerate.csprojResolveAssemblyReference.cache
